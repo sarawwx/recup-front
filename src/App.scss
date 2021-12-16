@@ -1,0 +1,35 @@
+* {
+  background-color: #fbf1ff;
+  margin: auto;
+}
+
+h1 {
+  color:#210563;
+  text-align: center;
+}
+
+nav {
+  text-align: center;
+  font-size: 140%;
+  font-style: italic;
+}
+
+.App {
+  text-align: center;
+}
+
+.App-logo {
+  height: 40vmin;
+  pointer-events: none;
+}
+
+.App-header {
+  background-color: #05225c;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
